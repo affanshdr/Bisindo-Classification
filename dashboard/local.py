@@ -129,9 +129,6 @@ def main():
             
             This is an original work for BISINDO (Indonesian Sign Language) Classification.
             
-            If you want to modify or use this code, please provide proper attribution.
-            
-            I am very open to any feedback or suggestions. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/krisna-santosa/). One more, Let's collaborate!
             """)
         st.markdown("---")
 

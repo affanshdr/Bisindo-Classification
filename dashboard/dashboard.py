@@ -17,6 +17,7 @@ mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
 
+
 def is_cloud_environment():
     """Check if running in Streamlit Cloud"""
     return os.getenv('STREAMLIT_RUNTIME_ENVIRONMENT') == 'cloud'

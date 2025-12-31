@@ -1,1 +1,13 @@
-bisindo-classifier/
+# Python virtual environment
+v2/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

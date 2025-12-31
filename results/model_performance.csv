@@ -1,0 +1,2 @@
+Model,N_Estimators,Max_Depth,Train_Accuracy,Val_Accuracy,Test_Accuracy,CV_Mean_Accuracy,CV_Std_Accuracy,Training_Time_Seconds,Number_of_Classes,Total_Training_Samples,Total_Test_Samples
+Random Forest,200,30,100.00%,99.45%,99.40%,99.34%,0.25%,1.46,26,10145,2174

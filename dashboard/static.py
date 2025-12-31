@@ -107,15 +107,12 @@ def main():
         st.markdown("---")
         col1, col2, col3 = st.columns([1, 4, 1])
         with col2:
-            st.markdown("### 👨‍💻 Project Information")
+            st.markdown("### Project Information")
             st.info("""
             **Created by: Krisna Santosa**
 
             This is an original work for BISINDO (Indonesian Sign Language) Classification.
 
-            If you want to modify or use this code, please provide proper attribution.
-
-            I am very open to any feedback or suggestions. Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/krisna-santosa/). One more, Let's collaborate!
             """)
         st.markdown("---")
 

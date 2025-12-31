@@ -3,5 +3,8 @@ opencv-python
 mediapipe
 numpy
 pandas
-joblib
 scikit-learn
+joblib
+matplotlib
+seaborn
+tensorflow
