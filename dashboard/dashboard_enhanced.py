@@ -149,6 +149,7 @@ def extract_landmarks(image, min_detection_confidence=0.5, min_tracking_confiden
 
         return None, None
 
+
 def get_camera_intrinsics(frame_width, frame_height):
     """Get approximate camera intrinsic matrix (Camera Model)"""
     focal_length = frame_width
